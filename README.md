@@ -47,10 +47,24 @@ The web wasn't built for classrooms. Standard browsers weren't designed with stu
 
 ## Screenshots
 
-> Screenshots coming soon. Check the [website](https://sanctum-pearl.vercel.app) for a live demo.
-
+### New Tab Page
 <p align="center">
-  <img src="screenshots/placeholder.png" alt="Sanctum Browser Screenshot" width="600" />
+  <img src="screenshots/browser-new-tab.png" alt="Sanctum Browser New Tab" width="700" />
+</p>
+
+### Site Blocked Page
+<p align="center">
+  <img src="screenshots/block-page.png" alt="Sanctum Browser Block Page" width="700" />
+</p>
+
+### Exam Mode
+<p align="center">
+  <img src="screenshots/exam-mode.png" alt="Sanctum Browser Exam Mode" width="700" />
+</p>
+
+### Admin Dashboard
+<p align="center">
+  <img src="screenshots/admin-dashboard.png" alt="Sanctum Browser Admin Dashboard" width="700" />
 </p>
 
 ## Deployment
